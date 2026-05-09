@@ -66,3 +66,9 @@ $$\text{SLA} = P(T_{\text{total}} \leq T_{\text{target}}) \geq 0.99$$
 
 ## License
 MIT
+
+## 📸 Visual Tour
+
+![monitoring dashboard](viz/monitoring_dashboard.png)
+
+---
