@@ -1,6 +1,9 @@
-# 🔭 LLM Production Observability
+# LLM Production Observability
 
-> Full observability stack for production LLM deployments: tracing, token-level metrics, cost tracking, quality monitoring, and alerting.
+> Monitoring stack for production LLM deployments: token-level cost tracking, semantic drift detection, quality scoring, and latency alerting.
+>
+> **Context:** Production LLMs need observability beyond standard web metrics. Semantic drift monitoring catches when model outputs silently degrade — critical for pharma applications where output accuracy has regulatory implications.
+
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
